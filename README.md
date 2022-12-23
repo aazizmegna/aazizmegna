@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Abdel Aziz Kamo Megna
-- 👀 I’m a software developer with 4 years of experience working on Javascript and Macine learning technologies
+- 👀 I’m a software developer with 4 years of experience working on Javascript and Machine learning technologies
 - 🌱 I’m currently working on task mining and process discovering to discover possible automated task in a compagny
 - 📫 Fell free to reach me via my linkedin https://linkedin.com/in/abdel-aziz-kamo-megna-1293b1167
