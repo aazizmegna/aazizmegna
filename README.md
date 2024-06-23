@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Fullstack Developer 👨‍💻 🚀
 ---
-Innovative and fast-learning fullstack developer specializing in building and maintaining responsive websites and applications. Expertise in JavaScript, TypeScript, React, Ionic, Node.js, GraphQL, and API integration. Passionate about creating usable, reusable components and have a strong working knowledge of design tools like Adobe XD and Figma.
 
 * 🌍  Based in Germany
 * ✉️  Reach out to me at [azizoukamo@gmail.com](mailto:azizoukamo@gmail.com)
