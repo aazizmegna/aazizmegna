@@ -45,6 +45,12 @@ An innovative and fast-learning full-stack developer with 4 years of experience 
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aazizmegna&show_icons=true&theme=radical" alt="Abdel Aziz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazizmegna&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
 ### Socials
 <p align="left"> 
 <a href="https://www.github.com/aazizmegna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
