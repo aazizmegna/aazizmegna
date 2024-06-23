@@ -54,12 +54,12 @@ Fullstack Developer 👨‍💻 🚀
 </table>
 
 ## GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aazizmegna&show_icons=true&theme=default" alt="Abdel Aziz's GitHub stats" />
 </p>
 
 ## Socials
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.github.com/aazizmegna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/abdelkamo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
