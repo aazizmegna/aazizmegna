@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdel Aziz Kamo Megna
 =============================================================================================================================================
 
-Full-Stack Developer
+Software Developer
 ------------------
 
 An innovative and fast-learning full-stack developer with 4 years of experience building and maintaining responsive websites in the IT industry. Proficiency in Javascript, Typescript, React, Ionic, Nodejs, GraphQL and API integration. Passionate about usability, reusable components and has working knowledge of Adobe XD and Figma.
