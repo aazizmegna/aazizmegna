@@ -55,8 +55,8 @@ Fullstack Developer 👨‍💻 🚀
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aazizmegna&show_icons=true&theme=radical" alt="Abdel Aziz's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazizmegna&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aazizmegna&show_icons=true&theme=default" alt="Abdel Aziz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazizmegna&layout=compact&theme=default" alt="Top languages" />
 </p>
 
 ## Socials
