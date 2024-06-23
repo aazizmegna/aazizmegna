@@ -6,10 +6,8 @@ Software Developer
 
 An innovative and fast-learning full-stack developer with 4 years of experience building and maintaining responsive websites in the IT industry. Proficiency in Javascript, Typescript, React, Ionic, Nodejs, GraphQL and API integration. Passionate about usability, reusable components and has working knowledge of Adobe XD and Figma.
 
-* 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at [abdelazizkamo](http://abdelkamo-4e116.web.app/)
+* 🌍  I'm based in Germany
 * ✉️  You can contact me at [azizoukamo@gmail.com](mailto:azizoukamo@gmail.com)
-* 🧠  I'm learning Vue and Angular
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/aazizmegna" target="_blank" rel="noreferrer"><img
