@@ -17,7 +17,7 @@ Fullstack Developer 👨‍💻 🚀
     <td><strong>Backend</strong></td>
     <td><strong>Database</strong></td>
     <td><strong>Design Tools</strong></td>
-    <td><strong>Data Science & ML</strong></td>
+    <td><strong>AI & Data Science</strong></td>
   </tr>
   <tr>
     <td>
