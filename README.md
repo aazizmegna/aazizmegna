@@ -17,7 +17,7 @@ Fullstack Developer 👨‍💻 🚀
     <td><strong>Backend</strong></td>
     <td><strong>Database</strong></td>
     <td><strong>Design Tools</strong></td>
-    <td><strong>AI & Data Science</strong></td>
+    <td><strong>Data Science & ML</strong></td>
   </tr>
   <tr>
     <td>
@@ -44,11 +44,9 @@ Fullstack Developer 👨‍💻 🚀
       <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="Adobe XD" /></a>
     </td>
     <td>
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikitlearn-colored.svg" width="36" height="36" alt="Scikit-Learn" /></a>
-      <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" /></a>
-      <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" /></a>
-      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matplotlib-colored.svg" width="36" height="36" alt="Matplotlib" /></a>
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="36" height="36" alt="Scikit-Learn" /></a>
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/pandas.png" width="36" height="36" alt="Pandas" /></a>
+      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="36" height="36" alt="Matplotlib" /></a>
     </td>
   </tr>
 </table>
